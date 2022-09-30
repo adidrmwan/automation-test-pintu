@@ -22,9 +22,7 @@ Features:
 
 ## Getting started
 1. Clone the repository
-2. Start the Appium Server
-   > appium --port 4723
-3. Start android emulator or connect with real device
+2. Start android emulator or connect with real device
 
 ## Intellij Plugin
 ### Cucumber for Java
